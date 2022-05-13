@@ -34,20 +34,20 @@
 <h3 align="left">Mis proyectos</h3>
 <p align="left">
 
-<a href="https://www.npmjs.com/package/md-links.francy" target="_blank"><img src="https://i.imgur.com/esfFS0f.png" with="50px">
+<a href="https://www.npmjs.com/package/md-links.francy" target="_blank"><img src="https://i.imgur.com/esfFS0f.png" with="50px"><br>
 **Node Js - Md Links**</a>
 <br>
 
 
-<a href="https://francy15.github.io/BOG004-social-network/src/index.html" target="_blank"><img src="https://i.imgur.com/6MvDWQt.png" with="50px">
+<a href="https://francy15.github.io/BOG004-social-network/src/index.html" target="_blank"><img src="https://i.imgur.com/6MvDWQt.png" with="50px"><br>
 **Social Network - Codering**</a>
 <br>
     
-<a href="https://francy15.github.io/BOG004-data-lovers/src/index.html" target="_blank"><img src="https://i.imgur.com/IfeXYfb.png" with="50px">
+<a href="https://francy15.github.io/BOG004-data-lovers/src/index.html" target="_blank"><img src="https://i.imgur.com/IfeXYfb.png" with="50px"><br>
 **Data Lovers - Studio Ghibli**</a>
 <br>
 
-<a href="https://francy15.github.io/BOG004-card-validation/src/index.html" target="_blank"><img src="https://i.imgur.com/I79re3u.png">
+<a href="https://francy15.github.io/BOG004-card-validation/src/index.html" target="_blank"><img src="https://i.imgur.com/I79re3u.png"><br>
 **Tarjeta de Crédito - Tienda de detalles** </a>
 <br>
 
