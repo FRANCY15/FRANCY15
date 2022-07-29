@@ -9,7 +9,7 @@
 - 💻  Front-End Dev con formación en Ingeniería industrial. 
 - 👩‍🎓 Actualmente estudio en el bootcamp de Laboratoria, y finalizo mis estudios a mediados del mes de Junio.
 - 🤝🏼 A través del sector de la tecnología he podido encontrar gente maravillosa, me encanta lo colaborativa y solidaria que puede llegar a ser la comunidad, y sobre todo que se valora inmensamente no solo las habilidades tecnologicas si no las habilidades para la vida.
-- 👩‍💻 Actualmente cuento con conocimiento en Javascript, HTML, CSS, React, control de versiones en GitHub, bases de datos como Firebase, MongoDB. 
+- 👩‍💻 Actualmente cuento con conocimiento en Javascript, HTML, CSS, React control de versiones en GitHub, bases de datos como Firebase, MongoDB. 
 
   
 ------
@@ -33,24 +33,30 @@
 
 <h3 align="left">Mis proyectos</h3>
 <p align="left">
+    
+<a href="https://frontburgerqueen-lab2022.herokuapp.com/" target="_blank"><img src="https://i.imgur.com/OilGqxV.png" with="50px">
+**Burger Queen**</a>
 
-<a href="https://www.npmjs.com/package/md-links.francy" target="_blank"><img src="https://i.imgur.com/esfFS0f.png" with="50px"><br>
+<br>
+
+<a href="https://www.npmjs.com/package/md-links.francy" target="_blank"><img src="https://i.imgur.com/esfFS0f.png" with="50px">
 **Node Js - Md Links**</a>
 <br>
 
 
-<a href="https://francy15.github.io/BOG004-social-network/src/index.html" target="_blank"><img src="https://i.imgur.com/6MvDWQt.png" with="50px"><br>
+<a href="https://francy15.github.io/BOG004-social-network/src/index.html" target="_blank"><img src="https://i.imgur.com/oJlEgAU.png" with="10px">
 **Social Network - Codering**</a>
 <br>
     
-<a href="https://francy15.github.io/BOG004-data-lovers/src/index.html" target="_blank"><img src="https://i.imgur.com/IfeXYfb.png" with="50px"><br>
+<a href="https://francy15.github.io/BOG004-data-lovers/src/index.html" target="_blank"><img src="https://i.imgur.com/rC5LKB0.jpg " with="50px">
 **Data Lovers - Studio Ghibli**</a>
 <br>
 
-<a href="https://francy15.github.io/BOG004-card-validation/src/index.html" target="_blank"><img src="https://i.imgur.com/I79re3u.png"><br>
+<a href="https://francy15.github.io/BOG004-card-validation/src/index.html" target="_blank"><img src="https://i.imgur.com/ry4MVbI.png">
 **Tarjeta de Crédito - Tienda de detalles** </a>
 <br>
 
 </p>
 
 ------
+
