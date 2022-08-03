@@ -34,7 +34,7 @@
 <h3 align="left">Mis proyectos</h3>
 <p align="left">
     
-<a href="https://frontburgerqueen-lab2022.herokuapp.com/" target="_blank"><img src="https://i.imgur.com/SwiQssy.png" with="50px">
+<a href="https://consum-responsable-equilibrium.herokuapp.com/" target="_blank"><img src="https://i.imgur.com/SwiQssy.png" with="50px">
 **Equilibrium**</a>
 Este proyecto fue realizado durante la 1ra. Hackthon de ImagineApps #FemTech en asociacion de con Microsoft y Digital House. Este proyecto fue construido los días **30 y 31 de julio de 2022**, teniendo como referencia el Objetivo #12 **Producción y Consumo Responsable** de la ONU, agenda 2030.
 
