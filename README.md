@@ -7,9 +7,9 @@
 </h3><br>
     
 - 💻  Front-End Dev con formación en Ingeniería industrial. 
-- 👩‍🎓 Actualmente estudio en el bootcamp de Laboratoria, y finalizo mis estudios a mediados del mes de Junio.
+- 👩‍🎓 Egresada del bootcamp de FrontEnd en Laboratoria.
 - 🤝🏼 A través del sector de la tecnología he podido encontrar gente maravillosa, me encanta lo colaborativa y solidaria que puede llegar a ser la comunidad, y sobre todo que se valora inmensamente no solo las habilidades tecnologicas si no las habilidades para la vida.
-- 👩‍💻 Actualmente cuento con conocimiento en Javascript, HTML, CSS, React control de versiones en GitHub, bases de datos como Firebase, MongoDB. 
+- 👩‍💻 Actualmente cuento con conocimiento en Javascript, HTML, CSS, React control de versiones en GitHub, nociones en bases de datos como Firebase, MongoDB. 
 
   
 ------
